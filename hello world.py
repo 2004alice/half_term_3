@@ -7,7 +7,7 @@ FPSCLOCK = pygame.time.Clock()
 
 black = (0, 0, 0)
 white = (255, 255, 255)
-left = 50
+left = 40
 top = 50
 width = 40
 height = 30
